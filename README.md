@@ -9,19 +9,22 @@ npm install novel_scrapper
 
 ```
 // For Fanmtl
-let { novelScrapper } = require('./src/novelScrapper.js');
+let { novelScrapper } = require('novelScrapper');
 
 // Define the link to the novel you want to scrape
 const link = "www.example";
 
 // Optional: Specify a path to save the .txt file
 const savePath = "path/optional";
+
+// Start scraping
+novelScrapper("fanmtl", link, savePath);
 ```
 
 
 ```
 // For Webnovel
-let { novelScrapper } = require('./src/novelScrapper.js');
+let { novelScrapper } = require('novelScrapper');
 
 // Define the link to the novel you want to scrape
 const link = "www.example";
