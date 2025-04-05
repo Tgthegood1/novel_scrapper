@@ -1,0 +1,13 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar archivos de configuración del entorno
+.env
+
+# Ignorar archivos de log
+npm-debug.log
+yarn-error.log
+
+# Ignorar directorios de compilación
+dist/
+build/

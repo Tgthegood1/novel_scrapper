@@ -1,0 +1,25 @@
+{
+  "name": "novel_scrapper",
+  "version": "1.0.0",
+  "main": "src/novelScrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mi-usuario/mi-libreria"
+  },
+  "keywords": [
+    "puppeter",
+    "npm",
+    "novelScrapper",
+    "javascript"
+  ],
+  "author": "Tgthegood",
+  "license": "MIT",
+  "description": "A collection of Scripting on some pages",
+  "dependencies": {
+    "puppeteer": "^24.6.0"
+  }
+}
+
