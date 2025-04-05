@@ -2,7 +2,8 @@
 
 ## Installation
 To get started, you can easily install the library via npm:
-WARNING: the Link provided must always be to chapter 1 of the novel you want, not the book.
+
+**WARNING: the Link provided must always be to chapter 1 of the novel you want, not the book.**
 
 ```
 npm install novel_scrapper
