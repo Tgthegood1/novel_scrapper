@@ -9,7 +9,7 @@ npm install novel_scrapper
 
 ```
 // For Fanmtl
-let { novelScrapper } = require('novelScrapper');
+let { novelScrapper } = require('novel_scrapper');
 
 // Define the link to the novel you want to scrape
 const link = "www.example";
@@ -24,7 +24,7 @@ novelScrapper("fanmtl", link, savePath);
 
 ```
 // For Webnovel
-let { novelScrapper } = require('novelScrapper');
+let { novelScrapper } = require('novel_scrapper');
 
 // Define the link to the novel you want to scrape
 const link = "www.example";
