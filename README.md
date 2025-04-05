@@ -1,4 +1,4 @@
-**Novel Scrapper** is a simple and powerful library that allows you to easily extract the content of novels from Webnovel or FanMTL websites and save it as a `.txt` file. This can be especially useful for readers who want to download chapters from their favorite online novels for offline reading or archiving.
+**Novel Scrapper** is a library that allows you to easily extract the content of novels from Webnovel or FanMTL websites and save it as a `.txt` file. This can be especially useful for readers who want to download chapters from their favorite online novels for offline reading or archiving.
 
 ## Installation
 To get started, you can easily install the library via npm:
